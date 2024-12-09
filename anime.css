@@ -1,0 +1,123 @@
+body{
+    background-color: rgb(177, 162, 122);
+    padding: 0%;
+    margin: 0%;
+}
+.one{
+    display: inline;
+    margin-left:150px ;
+    text-align: center;
+}
+#one{
+    float: right;
+    display: inline;
+}
+.img{
+    float: left;
+}
+.pr{
+    margin-left: 20px;
+
+}
+.hi{
+    position: absolute;
+
+}
+.img2{
+    float:right;
+}
+.hello{
+    position: absolute;
+    top: 175%;
+}
+.veg{
+    font-size: larger;
+    padding-left: 1050px; 
+}
+.goku{
+    font-size:larger;
+    padding-left:190px ;
+}
+.how{
+    position:absolute;
+    top:235%;
+}
+.img3{
+    float:left;
+}
+.gohan{
+    font-size:larger;
+    padding-left:190px ;
+}
+.what{
+    position:absolute;
+    top:310%;
+}
+.img4{
+    float:right;
+}
+.trunks{
+    font-size: larger;
+    padding-left: 1050px;
+}
+.hoo{
+   
+    margin-left: 550px;
+   
+}
+
+.ho{
+    margin-top:400px;
+    margin-left: 230px;
+    width: 420px;
+    height: 300px;
+}
+.hoh{
+    margin-top:400px;
+    margin-left: 150px;
+    width: 420px;
+    height: 300px;
+}
+.jo{
+      position: absolute;
+    }
+.va{
+    
+    float: left;
+    display: inline;
+    padding-left:270px;
+}
+.po{
+
+    float: right;
+    display: inline;
+    padding-left:500px;
+}
+
+footer{
+    text-align: center;
+    padding: 1rem;
+    background-color: #bfe0cf;
+     position: absolute;
+    width: 100%;
+    top: 400%;
+}
+
+.vj{
+padding-left: 530px;
+display:flex;
+gap:30px;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.t1{
+    color: rgb(241, 7, 7);
+}
+.t2{
+    color:rgb(241, 7, 7) ;
+}
+.t3{
+  color:rgb(241, 7, 7) ;  
+}
+

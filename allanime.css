@@ -1,0 +1,41 @@
+header{
+    background-color: rgb(7, 7, 7);
+    color: rgb(247, 244, 244);
+    padding: 10px 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+body {
+    margin: 0; 
+    padding: 0%;
+    text-align: center;
+    background-color: white;
+}
+.a1{
+    height: 40px;
+    width: 750px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius:30px ;
+    border-top-right-radius:30px ;
+    font-size: 18px;
+    text-align: center;
+    border-top-color: rgb(12, 12, 12);
+    border-bottom-color: black;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    background-color: rgb(211, 219, 219);
+}
+#vino{
+    background-color: black;
+    height: 80px;
+}
+.a2{
+    text-decoration: none;
+    font-weight: bold;
+    color: #6200ea;
+}
+.a2:hover{
+    text-decoration: underline;
+}
